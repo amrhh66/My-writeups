@@ -67,7 +67,7 @@ Counting all open TCP ports from the full scan:
 22, 80, 139, 445, 8081, 10001, 10121
 ```
 
-> **Answer: `6`** *(task-specific; count of the primary service ports)*
+> **Answer: `7`** *(task-specific; count of the primary service ports)*
 
 ---
 
